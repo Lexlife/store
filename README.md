@@ -1,0 +1,1 @@
+Running the application in developer mode: ```npm run start:dev```
